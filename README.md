@@ -1,6 +1,6 @@
 # KNN-Classification-using-Scikit-learn
 
-his repository contains Python code for performing K-Nearest Neighbors (KNN) classification on the Iris dataset using scikit-learn. The dataset is processed, and a series of experiments are conducted to evaluate the effect of different values of K, as well as the impact of selecting different features.
+This repository contains Python code for performing K-Nearest Neighbors (KNN) classification on the Iris dataset using scikit-learn. The dataset is processed, and a series of experiments are conducted to evaluate the effect of different values of K, as well as the impact of selecting different features.
 
 Overview
 The tasks performed in this notebook involve the following steps:
